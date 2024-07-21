@@ -1,4 +1,4 @@
-﻿namespace LibTestApp
+﻿namespace SampleApp
 {
 	partial class Form1
 	{
